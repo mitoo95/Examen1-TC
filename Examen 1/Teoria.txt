@@ -1,0 +1,12 @@
+Describa cuál es la diferencia entre una Estructura de Datos y un Tipo de Dato Abstracto?
+R/ El TDA es un modelo matematico con operaciones y una Estructura de Datos es un TDA implementado en un lenguaje de programacion.
+
+Qué es un Grafo?
+R/ Es un par ordenado.
+
+Qué es una función?
+R/ Es un objeto que plantea una relacion entre entradas y salidas. Toma una entrada y produce una salida.
+
+Cuál es la diferencia entre una secuencia y un conjunto?
+R/ La secuencia es una lista con algun orden, donde el orden y los valores repetidos si importan. 
+El conjunto es un grupo de elementos que representa una unidad en el cual el orden y los valores repetidos no importan.

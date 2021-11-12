@@ -1,0 +1,6 @@
+            |piedra|papel|tijera|lagartija|spock
+piedra      |F     |F    |V     |V        |F
+papel       |V     |F    |F     |F        |V
+tijera      |F     |V    |F     |V        |F
+lagartija   |F     |V    |F     |F        |V
+spock       |V     |F    |V     |F        |F
